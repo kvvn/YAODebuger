@@ -8,7 +8,11 @@
 
 include_once('YAODebugger.php');
 
-$debugger = YAODebugger::getInstance(['host' => 'localhost', 'port' => 8081, 'domain' => 'localhost']);
+$config = [
+    'host' => 'localhost', // url or your nodejs server
+    'port' => 8081, // port of your nodejs server
+    'domain' => 'localhost']; // host where php code is running
+$debugger = YAODebugger::getInstance($config);
 $debugger->log(new TestClass());
 //$debugger->error('error');
 //$debugger->info('info');

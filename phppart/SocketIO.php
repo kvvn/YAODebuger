@@ -1,9 +1,10 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: kvvn
- * Date: 4/7/16
- * Time: 12:32 PM
+ * Class SocketIO
+ * developed by psinetron (slybeaver)
+ * Git: https://github.com/psinetron
+ * web-site: http://slybeaver.ru
+ *
  */
 
 class SocketIO
@@ -11,9 +12,9 @@ class SocketIO
     /**
      * @param null $host - $host of socket server
      * @param null $port - port of socket server
-     * @param string $action - action to execute in sockt server
+     * @param string $action - action to execute in socket server
      * @param null $data - message to socket server
-     * @param string $address - addres of socket.io on socket server
+     * @param string $address - address of socket.io on socket server
      * @param string $transport - transport type
      * @return bool
      */

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="015b0ceb-a213-4f98-8fa4-87481c48fe1b" name="Default" comment="" />
+    <list default="true" id="015b0ceb-a213-4f98-8fa4-87481c48fe1b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="/media/kvvn/407a8ce2-b26c-4263-b88b-0ff9b519462a/multy/101PHPDebuger/phppart/SocketIO.php" afterPath="/media/kvvn/407a8ce2-b26c-4263-b88b-0ff9b519462a/multy/101PHPDebuger/phppart/SocketIO.php" />
+      <change type="MODIFICATION" beforePath="/media/kvvn/407a8ce2-b26c-4263-b88b-0ff9b519462a/multy/101PHPDebuger/phppart/.idea/workspace.xml" afterPath="/media/kvvn/407a8ce2-b26c-4263-b88b-0ff9b519462a/multy/101PHPDebuger/phppart/.idea/workspace.xml" />
+    </list>
     <ignored path="nodepart.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="../../jspart/bower_components/socket.io-client/" />
@@ -119,6 +122,28 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="nodepart" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jspart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodepart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jspart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="socket.io-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
